@@ -1,16 +1,16 @@
 # Lunar_PolicyGradients
 
-#Requirements:
+# Requirements:
 
 GPU recommended
 Pytoch
 gym
 LunarLander env
 
-#Steps:
+# Steps:
 
-##To train:
+## To train:
 python train.py
 
-##To Infer:
+## To Infer:
 python test.py
