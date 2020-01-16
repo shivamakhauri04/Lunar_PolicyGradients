@@ -3,8 +3,11 @@
 # Requirements:
 
 GPU recommended
+
 Pytoch
+
 gym
+
 LunarLander env
 
 # Steps:
