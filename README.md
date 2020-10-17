@@ -1,4 +1,6 @@
 # Lunar_PolicyGradients
+Policy gradient Reinforcement learning algorithm for Lunar Landing
+
 
 # Requirements:
 
